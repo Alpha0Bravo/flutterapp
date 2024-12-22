@@ -83,5 +83,4 @@ class DefaultFirebaseOptions {
     authDomain: 'ai-mobile-b9ce9.firebaseapp.com',
     storageBucket: 'ai-mobile-b9ce9.firebasestorage.app',
   );
-
 }
